@@ -49,7 +49,7 @@ simulate the model for inverse kinematics.
 ### STEP 5:
 update the DH parameters of the link configuration and end effector configuration.
 
-## SIMULATION 
+## SIMULATION: 
  
 ### 3R PLANAR
 ![OUTPUT](img7.png)
